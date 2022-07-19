@@ -4,4 +4,4 @@ Frontend Mentor challenge fylo-data-storage-component-master
 
 ## Live Preview
 
-https://hamza-gnoumi.github.io/fylo-data-storage-component/
+https://hamza-gnoumi.github.io/Fylo-data-storage-component/
